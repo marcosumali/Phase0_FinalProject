@@ -1,0 +1,2 @@
+MAIN PAGE FILE : coverstory.html
+QUIZ PAGE FILE : webstory.html

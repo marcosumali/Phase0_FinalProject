@@ -1,0 +1,136 @@
+html {
+    font-family: 'Roboto Condensed';
+    background-color: white;
+}
+
+
+#cover_game {
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.grid-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1.35fr 2fr;
+    grid-gap: 10px 10px;
+}
+
+.grid_column1 {
+    width: 100%;
+    display: grid;
+    border: 1px solid blue; /*TO BE DELETED*/
+}
+
+.grid_column2 {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 3fr 1fr;
+    grid-gap: 10px 10px 10px 10px;
+    border: 2px solid red; /*TO BE DELETED*/
+}
+
+.grid_row1 {
+    width: 100%;
+    display: grid;
+    border: 2px solid red; /*TO BE DELETED*/
+    overflow-y: scroll;
+}
+
+.grid_row2 {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: 2px solid red; /*TO BE DELETED*/
+}
+
+
+.img_cover1 {
+    height: 500px;
+    width: 500px;
+    display: grid;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+.interlog {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green; /*TO BE DELETED*/
+}
+
+.input1 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input2 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input3 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input4 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input5 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input6 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input7 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input8 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input9 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input10 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input11 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
+.input12 {
+    display: grid;
+    grid-column: auto;
+    border: 2px solid green;
+    vertical-align: middle;
+}
